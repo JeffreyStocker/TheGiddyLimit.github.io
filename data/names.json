@@ -14423,6 +14423,660 @@
 					]
 				}
 			]
+		},
+		{
+			"race": "Barovian - Curse of Strahd",
+			"source": "CoS",
+			"tables": [
+				{
+					"option": "Male",
+					"diceType": 42,
+					"table": [
+						{
+							"min": 1,
+							"max": 1,
+							"enc": "Alek"
+						},
+						{
+							"min": 2,
+							"max": 2,
+							"enc": "Andrej"
+						},
+						{
+							"min": 3,
+							"max": 3,
+							"enc": "Anton"
+						},
+						{
+							"min": 4,
+							"max": 4,
+							"enc": "Balthazar"
+						},
+						{
+							"min": 5,
+							"max": 5,
+							"enc": "Bogan"
+						},
+						{
+							"min": 6,
+							"max": 6,
+							"enc": "Boris"
+						},
+						{
+							"min": 7,
+							"max": 7,
+							"enc": "Dargos"
+						},
+						{
+							"min": 8,
+							"max": 8,
+							"enc": "Darzin"
+						},
+						{
+							"min": 9,
+							"max": 9,
+							"enc": "Dragomi"
+						},
+						{
+							"min": 10,
+							"max": 10,
+							"enc": "Emeric"
+						},
+						{
+							"min": 11,
+							"max": 11,
+							"enc": "Falkon"
+						},
+						{
+							"min": 12,
+							"max": 12,
+							"enc": "Frederich"
+						},
+						{
+							"min": 13,
+							"max": 13,
+							"enc": "Franz"
+						},
+						{
+							"min": 14,
+							"max": 14,
+							"enc": "Gargosh"
+						},
+						{
+							"min": 15,
+							"max": 15,
+							"enc": "Gorek"
+						},
+						{
+							"min": 16,
+							"max": 16,
+							"enc": "Grygori"
+						},
+						{
+							"min": 17,
+							"max": 17,
+							"enc": "Hans"
+						},
+						{
+							"min": 18,
+							"max": 18,
+							"enc": "Harkus"
+						},
+						{
+							"min": 19,
+							"max": 19,
+							"enc": "Ivan"
+						},
+						{
+							"min": 20,
+							"max": 20,
+							"enc": "Jirko"
+						},
+						{
+							"min": 21,
+							"max": 21,
+							"enc": "Kobal"
+						},
+						{
+							"min": 22,
+							"max": 22,
+							"enc": "Korga"
+						},
+						{
+							"min": 23,
+							"max": 23,
+							"enc": "Krystofor"
+						},
+						{
+							"min": 24,
+							"max": 24,
+							"enc": "Lazlo"
+						},
+						{
+							"min": 25,
+							"max": 25,
+							"enc": "Livius"
+						},
+						{
+							"min": 26,
+							"max": 26,
+							"enc": "Marek"
+						},
+						{
+							"min": 27,
+							"max": 27,
+							"enc": "Miroslav"
+						},
+						{
+							"min": 28,
+							"max": 28,
+							"enc": "Nikolaj"
+						},
+						{
+							"min": 29,
+							"max": 29,
+							"enc": "Nimir"
+						},
+						{
+							"min": 30,
+							"max": 30,
+							"enc": "Oleg"
+						},
+						{
+							"min": 31,
+							"max": 31,
+							"enc": "Radovan"
+						},
+						{
+							"min": 32,
+							"max": 32,
+							"enc": "Radu"
+						},
+						{
+							"min": 33,
+							"max": 33,
+							"enc": "Seraz"
+						},
+						{
+							"min": 34,
+							"max": 34,
+							"enc": "Sergei"
+						},
+						{
+							"min": 35,
+							"max": 35,
+							"enc": "Stefan"
+						},
+						{
+							"min": 36,
+							"max": 36,
+							"enc": "Tural"
+						},
+						{
+							"min": 37,
+							"max": 37,
+							"enc": "Valentin"
+						},
+						{
+							"min": 38,
+							"max": 38,
+							"enc": "Vasily"
+						},
+						{
+							"min": 39,
+							"max": 39,
+							"enc": "Vladislav"
+						},
+						{
+							"min": 40,
+							"max": 40,
+							"enc": "Waltar"
+						},
+						{
+							"min": 41,
+							"max": 41,
+							"enc": "Yesper"
+						},
+						{
+							"min": 42,
+							"max": 42,
+							"enc": "Zsolt"
+						}
+					]
+				},
+				{
+					"option": "Female",
+					"diceType": 38,
+					"table": [
+						{
+							"min": 1,
+							"max": 1,
+							"enc": "Alana"
+						},
+						{
+							"min": 2,
+							"max": 2,
+							"enc": "Clavdia"
+						},
+						{
+							"min": 3,
+							"max": 3,
+							"enc": "Danya"
+						},
+						{
+							"min": 4,
+							"max": 4,
+							"enc": "Dezdrelda"
+						},
+						{
+							"min": 5,
+							"max": 5,
+							"enc": "Diavola"
+						},
+						{
+							"min": 6,
+							"max": 6,
+							"enc": "Dorina"
+						},
+						{
+							"min": 7,
+							"max": 7,
+							"enc": "Drasha"
+						},
+						{
+							"min": 8,
+							"max": 8,
+							"enc": "Drilvia"
+						},
+						{
+							"min": 9,
+							"max": 9,
+							"enc": "Elisabeta"
+						},
+						{
+							"min": 10,
+							"max": 10,
+							"enc": "Fatima"
+						},
+						{
+							"min": 11,
+							"max": 11,
+							"enc": "Grilsha"
+						},
+						{
+							"min": 12,
+							"max": 12,
+							"enc": "Falkon"
+						},
+						{
+							"min": 13,
+							"max": 13,
+							"enc": "Isabella"
+						},
+						{
+							"min": 14,
+							"max": 14,
+							"enc": "Ivana"
+						},
+						{
+							"min": 15,
+							"max": 15,
+							"enc": "Jarzinka"
+						},
+						{
+							"min": 16,
+							"max": 16,
+							"enc": "Kala"
+						},
+						{
+							"min": 17,
+							"max": 17,
+							"enc": "Katerina"
+						},
+						{
+							"min": 18,
+							"max": 18,
+							"enc": "Kereza"
+						},
+						{
+							"min": 19,
+							"max": 19,
+							"enc": "Korina"
+						},
+						{
+							"min": 20,
+							"max": 20,
+							"enc": "Lavinia"
+						},
+						{
+							"min": 21,
+							"max": 21,
+							"enc": "Magda"
+						},
+						{
+							"min": 22,
+							"max": 22,
+							"enc": "Marta"
+						},
+						{
+							"min": 23,
+							"max": 23,
+							"enc": "Mathilda"
+						},
+						{
+							"min": 24,
+							"max": 24,
+							"enc": "Krystofor"
+						},
+						{
+							"min": 25,
+							"max": 25,
+							"enc": "Minodora"
+						},
+						{
+							"min": 26,
+							"max": 26,
+							"enc": "Mirabel"
+						},
+						{
+							"min": 27,
+							"max": 27,
+							"enc": "Miruna"
+						},
+						{
+							"min": 28,
+							"max": 28,
+							"enc": "Nimira"
+						},
+						{
+							"min": 29,
+							"max": 29,
+							"enc": "Nyanka"
+						},
+						{
+							"min": 30,
+							"max": 30,
+							"enc": "Olivenka"
+						},
+						{
+							"min": 31,
+							"max": 31,
+							"enc": "Ruxandra"
+						},
+						{
+							"min": 32,
+							"max": 32,
+							"enc": "Sorina"
+						},
+						{
+							"min": 33,
+							"max": 33,
+							"enc": "Tereska"
+						},
+						{
+							"min": 34,
+							"max": 34,
+							"enc": "Valentina"
+						},
+						{
+							"min": 35,
+							"max": 35,
+							"enc": "Vasha"
+						},
+						{
+							"min": 36,
+							"max": 36,
+							"enc": "Victoria"
+						},
+						{
+							"min": 37,
+							"max": 37,
+							"enc": "Wensencia"
+						},
+						{
+							"min": 38,
+							"max": 38,
+							"enc": "Zondra"
+						}
+					]
+				},
+				{
+					"option": "Family",
+					"diceType": 46,
+					"table": [
+						{
+							"min": 1,
+							"max": 1,
+							"enc": "Alastroi"
+						},
+						{
+							"min": 2,
+							"max": 2,
+							"enc": "Antonovich/Antonova"
+						},
+						{
+							"min": 3,
+							"max": 3,
+							"enc": "Barthos"
+						},
+						{
+							"min": 4,
+							"max": 4,
+							"enc": "Belasco"
+						},
+						{
+							"min": 5,
+							"max": 5,
+							"enc": "Cantemir"
+						},
+						{
+							"min": 6,
+							"max": 6,
+							"enc": "Dargovich/Dargova"
+						},
+						{
+							"min": 7,
+							"max": 7,
+							"enc": "Diavolov"
+						},
+						{
+							"min": 8,
+							"max": 8,
+							"enc": "Diminski"
+						},
+						{
+							"min": 9,
+							"max": 9,
+							"enc": "Dilisnya"
+						},
+						{
+							"min": 10,
+							"max": 10,
+							"enc": "Drazkoi"
+						},
+						{
+							"min": 11,
+							"max": 11,
+							"enc": "Garvinski"
+						},
+						{
+							"min": 12,
+							"max": 12,
+							"enc": "Grejenko"
+						},
+						{
+							"min": 13,
+							"max": 13,
+							"enc": "Groza"
+						},
+						{
+							"min": 14,
+							"max": 14,
+							"enc": "Grygorovich/Grygorova"
+						},
+						{
+							"min": 15,
+							"max": 15,
+							"enc": "Ivanovich/Ivanova"
+						},
+						{
+							"min": 16,
+							"max": 16,
+							"enc": "Janek"
+						},
+						{
+							"min": 17,
+							"max": 17,
+							"enc": "Karushkin"
+						},
+						{
+							"min": 18,
+							"max": 18,
+							"enc": "Konstantinovich/Konstantinova"
+						},
+						{
+							"min": 19,
+							"max": 19,
+							"enc": "Krezkov/Krezkova"
+						},
+						{
+							"min": 20,
+							"max": 20,
+							"enc": "Krykski"
+						},
+						{
+							"min": 21,
+							"max": 21,
+							"enc": "Lansten"
+						},
+						{
+							"min": 22,
+							"max": 22,
+							"enc": "Lazarescu"
+						},
+						{
+							"min": 23,
+							"max": 23,
+							"enc": "Lukresh"
+						},
+						{
+							"min": 24,
+							"max": 24,
+							"enc": "Lipsiege"
+						},
+						{
+							"min": 25,
+							"max": 25,
+							"enc": "Martikov/ Martikova"
+						},
+						{
+							"min": 26,
+							"max": 26,
+							"enc": "Mironovich/Mironovna"
+						},
+						{
+							"min": 27,
+							"max": 27,
+							"enc": "Moldovar"
+						},
+						{
+							"min": 28,
+							"max": 28,
+							"enc": "Nikolovich/Nikolova"
+						},
+						{
+							"min": 29,
+							"max": 29,
+							"enc": "Nimirovich/Nimirova"
+						},
+						{
+							"min": 30,
+							"max": 30,
+							"enc": "Oronovich/Oronova"
+						},
+						{
+							"min": 31,
+							"max": 31,
+							"enc": "Petrovich/Petrovna"
+						},
+						{
+							"min": 32,
+							"max": 32,
+							"enc": "Polensky"
+						},
+						{
+							"min": 33,
+							"max": 33,
+							"enc": "Radovich/Radova"
+						},
+						{
+							"min": 34,
+							"max": 34,
+							"enc": "Rilsky"
+						},
+						{
+							"min": 35,
+							"max": 35,
+							"enc": "Stefanovich/Stefanova"
+						},
+						{
+							"min": 36,
+							"max": 36,
+							"enc": "Strazni"
+						},
+						{
+							"min": 37,
+							"max": 37,
+							"enc": "Swilovich/Swilova"
+						},
+						{
+							"min": 38,
+							"max": 38,
+							"enc": "Taltos"
+						},
+						{
+							"min": 39,
+							"max": 39,
+							"enc": "Targolov/Targolova"
+						},
+						{
+							"min": 40,
+							"max": 40,
+							"enc": "Tyminski"
+						},
+						{
+							"min": 41,
+							"max": 41,
+							"enc": "Ulbrek"
+						},
+						{
+							"min": 42,
+							"max": 42,
+							"enc": "Ulrich"
+						},
+						{
+							"min": 43,
+							"max": 43,
+							"enc": "Vadu"
+						},
+						{
+							"min": 44,
+							"max": 44,
+							"enc": "Voltanescu"
+						},
+						{
+							"min": 45,
+							"max": 45,
+							"enc": "Zalenski"
+						},
+						{
+							"min": 46,
+							"max": 46,
+							"enc": "Zalken"
+						}
+					]
+				}
+			]
 		}
 	]
 }
