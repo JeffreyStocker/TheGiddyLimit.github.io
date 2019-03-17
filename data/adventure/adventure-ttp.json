@@ -19,7 +19,9 @@
 								"type": "internal",
 								"path": "adventure/TTP/Snout of Omgar DM.jpg"
 							},
-							"title": "Snout of Omgar - Player"
+							"title": "Snout of Omgar - Player",
+							"width": 533,
+							"height": 700
 						},
 						{
 							"type": "image",
@@ -27,7 +29,9 @@
 								"type": "internal",
 								"path": "adventure/TTP/Snout of Omgar Player.jpg"
 							},
-							"title": "Snout of Omgar - Player"
+							"title": "Snout of Omgar - Player",
+							"width": 2080,
+							"height": 2850
 						},
 						"The Snout of Omgar was once a peninsula, but upheaval wrought by the Spellplague broke off the tip of the peninsula, creating an island separated from mainland Chult by a narrow strait. When the separation occurred, tortles living in the vicinity claimed the island as their domain. The strait provided a natural defense against aggressive mainland predators.",
 						"The tortles of the Snout are hospitable folk who like to hunt, catch fish, build things, and trade with visitors. Not long after the island was formed, a pirate ship captained by a cleric of the sea goddess Umberlee was caught in a typhoon and swept ashore. Tortles rescued the shipwrecked survivors and looked after them. The captain impressed the tortles with her magic and told stories that painted Umberlee in a flattering light. In time, she persuaded them to raise a palace in her deity's honor. The cleric chose a mountainside overlooking the sea, and there the tortles spent a decade building Dangwaru, the Typhoon Palace, which secretly served as a temple of Umberlee. In return, the cleric and her followers left the tortles alone and were quiet neighbors.",
@@ -429,7 +433,9 @@
 								"type": "internal",
 								"path": "adventure/TTP/Ahoyhoy DM.jpg"
 							},
-							"title": "Ahoyhoy - DM"
+							"title": "Ahoyhoy - DM",
+							"width": 896,
+							"height": 599
 						},
 						{
 							"type": "image",
@@ -437,7 +443,9 @@
 								"type": "internal",
 								"path": "adventure/TTP/Ahoyhoy Player.jpg"
 							},
-							"title": "Ahoyhoy - Player"
+							"title": "Ahoyhoy - Player",
+							"width": 1459,
+							"height": 978
 						},
 						"The tortle fort of Ahoyhoy (see map 2) is situated on the northwest coast of the island. Tortles come here to socialize, lay eggs, and meet with traders. The place has no government. Tortles and guests are expected to be on their best behavior, and those who become a nuisance are asked to leave-or forced out, if necessary.",
 						"At any given time, Ahoyhoy is home to {@dice 4d6} adult {@creature tortle|ttp|tortles} (see \"Tortles,\"), {@dice 2d6} young tortles (noncombatants with AC 14 and 2 hit points each), and an old {@creature tortle druid|ttp} named Mudgraw (for roleplaying notes, see \"Tortle Guides,\"; for statistics, see \"Tortles,\"). Four of the adult tortles stand watch on the ramparts (two in {@area 3>3>0} and two in {@area 3>9>0}). The remainder sleep on woven mats or busy themselves with crafts and projects (making crossbow bolts, gutting fish, repairing weather damage to the fort, and so forth). The tortles prefer to sleep without roofs over their heads. They lay their eggs in special areas covered with rope nets to protect the eggs from large flying predators.",
@@ -651,7 +659,9 @@
 								"type": "internal",
 								"path": "adventure/TTP/Dangwaru DM.jpg"
 							},
-							"title": "Dangwaru - DM"
+							"title": "Dangwaru - DM",
+							"width": 654,
+							"height": 700
 						},
 						{
 							"type": "image",
@@ -659,7 +669,9 @@
 								"type": "internal",
 								"path": "adventure/TTP/Dangwaru Player.jpg"
 							},
-							"title": "Dangwaru - Player"
+							"title": "Dangwaru - Player",
+							"width": 2149,
+							"height": 2909
 						},
 						"The Typhoon Palace (see map 3) has stood for almost a century. If the characters are of 3rd level or lower, they will need to rest and recuperate between palace encounters. They might even need to retreat and regroup a few times. Characters of 4the level or higher should be able to clear out the palace with few (if any) rests.",
 						"Built by tortles, the palace is a sturdy, multilevel stone edifice with terraces carved out of the mountainside. Its name, Dangwaru, loosely translates to \"high home\" in Aquan. No one remembers the name of the cleric for whom the palace was built, but the tortles of the island know the following bits of lore about Dangwaru and its original inhabitants:",
@@ -1324,7 +1336,9 @@
 							"href": {
 								"type": "internal",
 								"path": "adventure/TTP/Eeyal.jpg"
-							}
+							},
+							"width": 699,
+							"height": 700
 						}
 					]
 				},
@@ -1338,7 +1352,9 @@
 							"href": {
 								"type": "internal",
 								"path": "adventure/TTP/Kwilgok.jpg"
-							}
+							},
+							"width": 683,
+							"height": 700
 						}
 					]
 				},
@@ -1354,7 +1370,9 @@
 							"href": {
 								"type": "internal",
 								"path": "adventure/TTP/Mudgraw.jpg"
-							}
+							},
+							"width": 631,
+							"height": 700
 						}
 					]
 				}
